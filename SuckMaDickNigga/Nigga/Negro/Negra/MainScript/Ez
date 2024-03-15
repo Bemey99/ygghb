@@ -21,10 +21,7 @@
 
 local SUPERGYAT = loadstring(game:HttpGet("https://raw.githubusercontent.com/Bemey99/GigaNigga/main/WithALongDick"))();
 local Notify = SUPERGYAT.Notify;
-local ScriptName = "Jupiter. cc"
-local OwnerCred = "AlSploit"
-local GodCred = "GodSploit"
-local DoSkid = "Yes."
+local ScriptName = "Jupiter.cc"
 Notify({
 Title = "Checking ID...";
 Duration = 1.322224;
@@ -36,15 +33,15 @@ Duration =1.4;
 wait(2.3)
 Notify({
 Description = "Made By @jdjcxbdnfnfn on dis";
-Title = "".. ScriptName .." Silent Aim Script Loaded!";
+Title = "".. ScriptName .." Script Loaded!";
 Duration = 500000000;
 });
 Notify({
 Title = "Enjoy! 😘";
-Duration = 3000000;
+Duration = 30;
 });
 Notify({
-Title = "Hi Negras;
+Title = "Hi Negros";
 Duration = 30;
 });
 Notify({
@@ -52,7 +49,7 @@ Title = "join da discord plez";
 Duration = 30;
 });
 Notify({
-Title = "";
+Title = "https://discord.gg/CgXapfCJm3";
 Duration = 30;
 });
 Notify({
